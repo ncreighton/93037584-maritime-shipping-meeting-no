@@ -1,2 +1,28 @@
-# 93037584-maritime-shipping-meeting-no
-Stop losing critical decisions in a sea of email chains and scattered notes. Your shipping meetings deserve a clear, actionable log that keeps your fleet and projects on course.  This Notion template transforms chaotic maritime meeting notes into a structured decision log that tracks action items, port schedules, and regulatory updates. Save hours
+# Maritime & Shipping Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe8wPaDdgaU6xy0Ved0k0r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe8wPaDdgaU6xy0Ved0k0r)
+
